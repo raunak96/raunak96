@@ -1,4 +1,5 @@
-<h1 align=center> Welcome 👋 </h1>
+<div align=center>
+  <h1 align=center> Welcome 👋 </h1>
 
 <p align=center>
   <b>My name is <a href="">Raunak Kedia</a> <br />
@@ -62,7 +63,8 @@
 <img title="Sanity" height=60 src="https://i.ibb.co/Yfn76jh/sanity.png" alt="Sanity" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-
+<br />
+<h2 align=center>Statistics</h2>
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=raunak96&show_icons=true&theme=radical)](https://github.com/raunak96/github-readme-stats)
@@ -71,3 +73,5 @@
 
 
 ![Metrics](https://metrics.lecoq.io/raunak96?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
+</div>
+
