@@ -1,4 +1,3 @@
-
 <h1 align=center> Welcome 👋 </h1>
 
 <p align=center>
@@ -18,9 +17,8 @@
 
 
 ## 🧰 Languages and Tools:
-<p align=center>
+<p>
     
-<span align=center class=d-flex>
 <img title="HTML" height=60 src="https://www.w3.org/html/logo/img/mark-word-icon.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
 <img title="CSS3" height=60 src="https://i.ibb.co/zS6NpSv/css.jpg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
 <img title="JS" height=60 src="https://i.ibb.co/bshz7GS/js.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -30,17 +28,13 @@
 <img title="NextJS" height=60 src="https://i.ibb.co/WcBJFtW/next.png" alt="NextJS" height="40" style="vertical-align:top; margin:4px">
 
 
-</span> <br />
-<span align=center class=d-flex>
+<br />
 
 <img title="TAILWIND" height=60 src="https://i.ibb.co/CPXtgMv/tailwindcss.jpg" alt="Tailwind" height="40" style="vertical-align:top; margin:4px">
 <img title="Firebase" height=60 src="https://i.ibb.co/8XvqrNh/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 <img src="https://i.ibb.co/qWCpWm6/vscode.png" alt="VS Code" height="40" style="vertical-align:top;height:60px;margin:4px" title="VS Code">
-</span><br /><br />
-
-<span align=center class=d-flex>
-    <img title="Sanity" height=60 src="https://i.ibb.co/Yfn76jh/sanity.png" alt="Sanity" height="40" style="vertical-align:top; margin:4px">
-</span>
+<br />
+<img title="Sanity" height=60 src="https://i.ibb.co/Yfn76jh/sanity.png" alt="Sanity" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
