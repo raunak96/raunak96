@@ -5,12 +5,33 @@
   I am from Kolkata, India. <br />
   I am a Web Developer! <br />
 </p>
+<hr />
+<h2> Work Experience</h2>
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Designation</th>
+    <th>Period</th>
+  </tr>
+  <tr>
+    <td>Walmart Global Tech India</td>
+    <td>Software Development Engineer II</td>
+    <td>Aug'20 - Sep'21</td>
+  </tr>
+  <tr>
+    <td>Walmart Global Tech India</td>
+    <td>Software Development Engineer Intern</td>
+    <td>Jan'20 - June'20</td>
+  </tr>
+ 
+</table>
 
-## ✉️ Find me on: 
+<br />
+<h2> ✉️ Find me on: </h2>
 
 <p align="center">
   
- <a href="https://www.linkedin.com/in/raunak-kedia-3b5285177/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/raunak-kedia-3b5285177/" target="_blank" rel="noopener noreferrer" style="margin:6px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:raunakkedia1@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 <br />
