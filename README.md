@@ -34,9 +34,9 @@
 
 <h2> ✉️ Find me on: </h2>
 
-<p align=center>
-   <a href="https://www.linkedin.com/in/raunak-kedia-3b5285177/" target="_blank" rel="noopener noreferrer" style="margin:6px"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px;fill:white"></a>
- <a href="mailto:raunakkedia1@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
+<p align=center style="display:flex;justify-content:center;gap:10px;" >
+   <a href="https://www.linkedin.com/in/raunak-kedia-3b5285177/" target="_blank" rel="noopener noreferrer" style="margin:6px;"> <img src="https://i.ibb.co/4JFKGtx/linkedin.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px;" /></a>
+ <a href="mailto:raunakkedia1@gmail.com"> <img src="https://i.ibb.co/C56dkw0/gmail.webp" alt="email" height="40" style="vertical-align:top; margin:4px" /></a>
 </p>
 
 <br />
