@@ -19,6 +19,11 @@
     <th>Period</th>
   </tr>
   <tr>
+    <td>Flipkart Internet Private Limited</td>
+    <td>UI Engineer </td>
+    <td>Jun'22 - </td>
+  </tr>
+  <tr>
     <td>Walmart Global Tech India</td>
     <td>Software Development Engineer II</td>
     <td>Aug'20 - Sep'21</td>
