@@ -21,7 +21,7 @@
   <tr>
     <td>Flipkart Internet Private Limited</td>
     <td>UI Engineer </td>
-    <td>Jun'22 - </td>
+    <td>Jun'23 - </td>
   </tr>
   <tr>
     <td>Walmart Global Tech India</td>
